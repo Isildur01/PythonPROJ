@@ -1,3 +1,5 @@
+#SISTEMA DE VENDAS COM TKINTER E PYGAME
+
 from tkinter import *
 import time;
 import datetime
